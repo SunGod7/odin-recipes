@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(249, 58, 58);
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+p, ul, ol {
+    background-color: rgb(215, 225, 225);
+    color: blue;
+}
+.maclob, .mac {
+    background-color: rgb(57, 124, 238);
+    color: rgb(246, 241, 241);
+}
