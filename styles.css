@@ -1,6 +1,14 @@
 body {
-    background-color: rgb(250, 122, 239);
+    background-image: url("./Images/pexels-craig-adderley-2005935.jpg");
+    height: 100vh;
+    /* width: 100vh; */
+    background-size: cover;
+    background-color: rgb(76, 153, 247);
 }
 h1 {
     text-align: center;
+}
+
+.container {
+    background-color: aqua;
 }
