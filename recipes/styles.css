@@ -1,19 +1,50 @@
 body {
-    background-color: rgb(249, 58, 58);
- 
+    background-color: rgb(156, 152, 152);
+    
 }
 h1 {
     text-align: center;
     color: blue;
 }
 p, ul, ol {
-    background-color: rgb(215, 225, 225);
-    color: blue;
+    background-color: rgb(113, 245, 93);
+    color: rgb(9, 9, 9);
+   
 }
 .maclob, .mac {
     background-color: rgb(57, 124, 238);
-    color: rgb(246, 241, 241);
+    color: rgb(8, 8, 8);
+   
 }
 img {
     align-content: center;
+}
+
+.containerOne {
+    background-image: url("./Images/pexels-august-de-richelieu-4259140.jpg");
+    height: 100vh;
+    /* width: ; */
+    background-size: cover;
+}
+.containerTwo {
+    background-image: url("./Images/pexels-angele-j-128402.jpg");
+    
+}
+.containerTre {
+    background-image: url("./Images/pexels-ksenia-chernaya-3952043.jpg");
+    /* height: 100vh; */
+    /* width: ; */
+    background-size: cover;
+
+}
+
+.scampi {
+    background-color: aqua;
+}
+
+button {
+    background-color: darkviolet;;
+    color: rgb(231, 225, 234);
+    padding: 8px;
+    margin: 2px;
 }
